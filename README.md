@@ -1,4 +1,4 @@
-[![photo-2026-02-28-11-17-56.jpg](https://i.postimg.cc/cJXG0wDw/photo-2026-02-28-11-17-56.jpg)](https://postimg.cc/KKkH5kh8)
+[![photo-2026-02-28-11-17-56-obrez.jpg](https://i.postimg.cc/Hk33Z2vV/photo-2026-02-28-11-17-56-obrez.jpg)](https://postimg.cc/qNh8g8TT)
 
 # О человеке его поступки и действия скажут больше и правдивее, чем он сам!
 
