@@ -24,3 +24,7 @@
 [React-event-state](https://github.com/Jeyhun1979/react_event_state)
 
 [React-forms](https://github.com/Jeyhun1979/react_forms)
+
+[React-composition](https://github.com/Jeyhun1979/react_composition)
+
+[React_lifecycle-http](https://github.com/Jeyhun1979/react_lifecycle-http)
