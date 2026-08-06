@@ -1,21 +1,18 @@
+# О человеке его поступки и действия скажут больше и правдивее, чем он сам
+
 [![photo-2026-02-28-11-17-56-obrez.jpg](https://i.postimg.cc/Hk33Z2vV/photo-2026-02-28-11-17-56-obrez.jpg)](https://postimg.cc/qNh8g8TT)
-
-# О человеке его поступки и действия скажут больше и правдивее, чем он сам!
-
 
 ## Дипломный проект курса "Frontend-разработчик: расширенный курс"
 
 [Дипломный проект](https://github.com/Jeyhun1979/frontend_diplom)
 
-
-## Тестовые кейсы:
+## Тестовые кейсы
 
 [Case_converter](https://github.com/Jeyhun1979/case_converter)
 
 [Case_news](https://github.com/Jeyhun1979/case_news)
 
-
-### Дипломные проекты модулей обучения в Нетологии:
+### Дипломные проекты модулей обучения в Нетологии
 
 [HTML/CSS - "Адаптивная и мобильная верстка"](https://jeyhun1979.github.io/MQ-diploma/)
 
@@ -31,8 +28,7 @@
 
 [React: Библиотека №1](https://github.com/Jeyhun1979/react_diplom)
 
-
-### Учебные проекты по React: 
+### Учебные проекты по React
 
 [React-components](https://github.com/Jeyhun1979/react_components)
 
@@ -52,8 +48,7 @@
 
 [React_router](https://github.com/Jeyhun1979/react_router)
 
-
-### Учебные проекты по Redux:
+### Учебные проекты по Redux
 
 [React_redux](https://github.com/Jeyhun1979/react_redux)
 
